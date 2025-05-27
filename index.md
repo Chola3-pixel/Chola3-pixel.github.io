@@ -1,15 +1,15 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Christian Olabisi
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Just Keep Swimming "
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Senior, Electrical Engineering with a concentration in cybersecurity  @ Morgan State University"
+  - "🔬 Research: Proactive Degense System for Unforseen Adversarial Attacks "
+  - "📍 Based in Baltimore, MD"
+  - " Passionate about learning"
 
 linkedin: https://www.linkedin.com/in/taquavian-johnson/
 image: /assets/images/me.jpg
