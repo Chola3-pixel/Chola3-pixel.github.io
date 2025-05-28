@@ -12,5 +12,5 @@ quick_facts:
   - " Passionate about learning"
 
 linkedin: https://www.linkedin.com/in/taquavian-johnson/
-image: /assets/images/Headshot.Jpg
+image: /assets/images/Head shot.Jpg
 ---
