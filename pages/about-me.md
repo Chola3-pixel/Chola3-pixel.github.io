@@ -21,7 +21,7 @@ about:
       Description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
     - icon: 🤖
       title: Reading
-      Description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+      Description: I enjoy building mini smart devices, like home sensors and wearables, using Raspberry Pi.
     - icon: 🕹️
       title:  Gaming
       Description: I love modding old consoles and diving into pixel art games on emulators.
