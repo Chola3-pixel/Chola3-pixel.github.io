@@ -25,10 +25,10 @@ about:
     - icon: 🕹️
       title:  Gaming
       Description: I love modding old consoles and diving into pixel art games on emulators.
-      - icon: 🕹️
+    - icon: 🕹️
       title:  Lacrosse
       Description: I love modding old consoles and diving into pixel art games on emulators.
-      - icon: 🕹️
+    - icon: 🕹️
       title:  Djing
       Description: I love modding old consoles and diving into pixel art games on emulators.
       
