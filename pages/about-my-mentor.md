@@ -2,6 +2,7 @@
 layout: mentor
 title: About My Mentors
 permalink: /about-my-mentor.html
+
 graduate_mentor:
   name: Olayinka Jolayemi
   title: PhD Student, Electrical Engineering
@@ -9,9 +10,10 @@ graduate_mentor:
   website: https://gradmentor.example.com
   email: oljol3@morgan.edu
   bio: |
-    Olayinka Jolayemis  is a PhD candidate in Electrical Engineering, focused on Secure Embedded Systems. continuing his academic journey. He is involved with Dr. Cole's Secure Signal and Systems research group, where his primary research focuses on investigating adversarial attack effects on Resilient Distributed Algorithms (RDO). 
+    Olayinka Jolayemi is a PhD candidate in Electrical Engineering, focused on Secure Embedded Systems. He is involved with Dr. Cole's Secure Signal and Systems research group, where his primary research explores adversarial attack effects on Resilient Distributed Algorithms (RDO).
     
-   Olayinka Jolayemi has an educational background in Electrical Engineering, earning both his Bachelor of Science (BS) and Master of Science (MS) degrees in Electrical Engineering. He obtained his BS degree from the University of Ilorin in Nigeria and his MS degree from Morgan State University. After completing his MS degree, Olayinka began working at Kinzo Engineering as a Cybersecurity Engineer. In this role, he focused on ensuring the security and protection of computer systems and networks against cyber threats and attacks.
+    He holds both a Bachelor of Science (BS) and Master of Science (MS) in Electrical Engineering. He earned his BS from the University of Ilorin in Nigeria and his MS from Morgan State University. After completing his MS, Olayinka began working at Kinzo Engineering as a Cybersecurity Engineer, focusing on protecting systems and networks against cyber threats.
+
 
 
 faculty_mentor:
