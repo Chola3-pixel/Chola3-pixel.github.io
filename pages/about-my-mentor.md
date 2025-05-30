@@ -7,7 +7,7 @@ graduate_mentor:
   name: Olayinka Jolayemi
   title: PhD Student, Electrical Engineering
   image: /assets/images/mymentor.jpg
-  website:https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
+  website: https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
   email: oljol3@morgan.edu
   bio: |
     Olayinka Jolayemi is a PhD candidate in Electrical Engineering, focused on Secure Embedded Systems. He is involved with Dr. Cole's Secure Signal and Systems research group, where his primary research explores adversarial attack effects on Resilient Distributed Algorithms (RDO).
