@@ -14,8 +14,6 @@ graduate_mentor:
     
     He holds both a Bachelor of Science (BS) and Master of Science (MS) in Electrical Engineering. He earned his BS from the University of Ilorin in Nigeria and his MS from Morgan State University. After completing his MS, Olayinka began working at Kinzo Engineering as a Cybersecurity Engineer, focusing on protecting systems and networks against cyber threats.
 
-
-
 faculty_mentor:
   name: Dr. Cliston Cole, Ph.D.
   title: Assistant Professor at MSU | Electrical Engineer | Auditory Modeling | Speech Perception
