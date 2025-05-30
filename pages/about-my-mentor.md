@@ -21,7 +21,13 @@ faculty_mentor:
   website: https://facultymentor.example.com
   email: cliston.cole@morgan.edu
   bio: |
-    Dr. Cliston Cole  received the B.S. and M.S. degrees from Tuskegee University, both in Electrical Engineering. He also received a Ph.D. degree in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign. His research interests include digital signal processing, speech processing, image processing, radar processing, artificial intelligent (AI), machine learning, neuroscience, and techniques for improving speech recognition and computer vision in both communication and artificial intelligent systems.
+    Dr. Cliston Cole received both his B.S. and M.S. degrees in Electrical Engineering from Tuskegee University. He earned his Ph.D. in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign.
+
+    His research interests include digital signal processing, speech processing, image processing, radar processing, artificial intelligence (AI), machine learning, and neuroscience. He focuses on techniques for improving speech recognition and computer vision in both communication and intelligent systems.
+
+    Dr. Cole’s work aims to enhance quality of life through the development of software algorithms and systems for embedded smart AI platforms.
+---
+
     
    Dr. Cole’s research focuses on improving the quality of life for human by the development of software algorithms and software systems for AI systems such as embedded smart systems.
 
