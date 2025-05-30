@@ -9,18 +9,19 @@ graduate_mentor:
   image: /assets/images/mymentor.jpg
   website: https://gradmentor.example.com
   bio: |
-    Olayinka Jolayemis  is a PhD candidate in Electrical Engineering, focused on Secure Embedded Systems. His  research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Olayinka Jolayemis  is a PhD candidate in Electrical Engineering, focused on Secure Embedded Systems. continuing his academic journey. He is involved with Dr. Cole's Secure Signal and Systems research group, where his primary research focuses on investigating adversarial attack effects on Resilient Distributed Algorithms (RDO). 
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+   Olayinka Jolayemi has an educational background in Electrical Engineering, earning both his Bachelor of Science (BS) and Master of Science (MS) degrees in Electrical Engineering. He obtained his BS degree from the University of Ilorin in Nigeria and his MS degree from Morgan State University. After completing his MS degree, Olayinka began working at Kinzo Engineering as a Cybersecurity Engineer. In this role, he focused on ensuring the security and protection of computer systems and networks against cyber threats and attacks.
+
 
 faculty_mentor:
-  name: Dr. Cliston Cole 
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
+  name: Dr. Cliston Cole Cliston Cole, Ph.D.
+  title: Assistant Professor at MSU | Electrical Engineer | Auditory Modeling | Speech Perception
+  image: /assets/images/facultyadvisor.jpg
   website: https://facultymentor.example.com
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Dr. Cliston Cole  received the B.S. and M.S. degrees from Tuskegee University, both in Electrical Engineering. He also received a Ph.D. degree in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign. His research interests include digital signal processing, speech processing, image processing, radar processing, artificial intelligent (AI), machine learning, neuroscience, and techniques for improving speech recognition and computer vision in both communication and artificial intelligent systems.
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+   Dr. Cole’s research focuses on improving the quality of life for human by the development of software algorithms and software systems for AI systems such as embedded smart systems.
 
 ---
