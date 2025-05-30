@@ -2,7 +2,6 @@
 layout: mentor
 title: About My Mentors
 permalink: /about-my-mentor.html
-
 graduate_mentor:
   name: Olayinka Jolayemi
   title: PhD Student, Electrical Engineering
