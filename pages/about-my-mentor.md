@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Olayinka Jolayemi
   title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
+  image: /assets/images/mymentor.jpg
   website: https://gradmentor.example.com
   bio: |
     Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
