@@ -3,34 +3,36 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Proactive Defense System
+project_title: "Proactive Defense System for Unforeseen Adversarial Attacks"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  Today challenges in existing cyber defense systems are majorly reactive against known adversarial attacks but not to unseen attacks. The growing concerns with current defense mechanisms are solely relying on static rules and predefined signatures to protect against threats. How can we improve defense systems to stay ahead of the constantly evolving threats?
+Our proposed Proactive Defense System is expected to use neural networks as a base system for learning. We will train our neural networks to learn features across several tasks such as
+prior attack vectors. 
 
 approach: |
-  The project follows a four-phase pipeline:
+  The project follows a pipeline:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
+  - Read and discuss selected scholarly conference and journal papers.
+  - Understand the project plan for implementing a Proactive Detecting System for unforeseen cyberattacks.
+  - Develop an operational ProactiveDetection System for cyberattacks
+  - Publication
 
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  Basic computer programming in C++ and PythonKnowledge of Mathematics especially vector/matrix operations, Basic Knowledge of AI/ML Have an interest in learning advanced ML algorithms, communication networks, cybersecurity, and IoT systems.
 
+  
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+ The outcomes of this program will equip participants with advanced skills in communication networking, cybersecurity, and ML systems tailored for cyberattack detection on IoT devices.The students will have opportunities to advance critical thinking skills in conducting basic research to develop complex ML systems by understanding legend ML algorithms for detecting cyberattacks. Additionally, they will acquire basic software programming skills in developing a ML system, system integration for IoT devices, and software configuration for networking by exchanging data over wireless links. Moreover, contribution to this project complements
+security solutions for IoT safety and the protection of data information across data links in communication networks.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Olayinka Jolayemi
+  linkedin: https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Cliston Cole
+  linkedin: https://www.linkedin.com/in/cliston-cole-ph-d/
 ---
