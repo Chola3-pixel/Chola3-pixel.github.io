@@ -7,7 +7,7 @@ graduate_mentor:
   name: Olayinka Jolayemi
   title: PhD Student, Electrical Engineering
   image: /assets/images/mymentor.jpg
-  website: https://gradmentor.example.com
+  website:https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
   email: oljol3@morgan.edu
   bio: |
     Olayinka Jolayemi is a PhD candidate in Electrical Engineering, focused on Secure Embedded Systems. He is involved with Dr. Cole's Secure Signal and Systems research group, where his primary research explores adversarial attack effects on Resilient Distributed Algorithms (RDO).
@@ -18,7 +18,7 @@ faculty_mentor:
   name: Dr. Cliston Cole, Ph.D.
   title: Assistant Professor at MSU | Electrical Engineer | Auditory Modeling | Speech Perception
   image: /assets/images/facultyadvisor.jpg
-  website: https://facultymentor.example.com
+  website: https://www.linkedin.com/in/cliston-cole-ph-d/
   email: cliston.cole@morgan.edu
   bio: |
     Dr. Cliston Cole received both his B.S. and M.S. degrees in Electrical Engineering from Tuskegee University. He earned his Ph.D. in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign.
