@@ -7,9 +7,10 @@ subtitle: Proactive Defense System
 project_title: "Proactive Defense System for Unforeseen Adversarial Attacks"
 
 problem: |
-  Today challenges in existing cyber defense systems are majorly reactive against known adversarial attacks but not to unseen attacks. The growing concerns with current defense mechanisms are solely relying on static rules and predefined signatures to protect against threats. How can we improve defense systems to stay ahead of the constantly evolving threats?
-Our proposed Proactive Defense System is expected to use neural networks as a base system for learning. We will train our neural networks to learn features across several tasks such as
-prior attack vectors. 
+  Today challenges in existing cyber defense systems are majorly reactive against known adversarial attacks but not to unseen attacks. The growing concerns with current defense mechanisms are solely relying on static rules and predefined signatures to protect against threats. 
+  
+  How can we improve defense systems to stay ahead of the constantly evolving threats?
+Our proposed Proactive Defense System is expected to use neural networks as a base system for learning. We will train our neural networks to learn features across several tasks such as prior attack vectors. 
 
 approach: |
   The project follows a pipeline:
