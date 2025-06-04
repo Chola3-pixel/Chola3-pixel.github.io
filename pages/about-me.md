@@ -9,22 +9,23 @@ about:
   image: /assets/images/me.jpg
   LinkedIn: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
-    I’m currently a Senior studying Electrical Engineering at Morgan State University in Baltimore, Maryland. I expect to graduate this upcoming fall semester.
+    I’m currently a Senior studying Electrical Engineering at Morgan State University in Baltimore, Maryland. I expect to graduate this upcoming fall semester. I will be working on an Senior project that entails the prevention and detection of eavesdropping on a systems Network. Also after graduation, I plan on getting my master's degree immediately.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    In my free time, I go to the gym, read, and play video games. Also learning a new hobby which is djing. So in my spare time, I spend my time doing. Also, plan on learning Portuguese since I'm planning a trip to Brazil and I want to be well-versed in the language.
 
   hobbies:
-    - icon: 🎺
+    - icon: 💪🏿
       title: Going to the GYM
-      Description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
+      Description: I love going to the gym and pushing my body to its limit
+    - icon: 📚
       title: Reading
-      Description: I enjoy building mini smart devices, like home sensors and wearables, using Raspberry Pi.
+      Description: Ever since I was a kid I've had a passion for reading. I read whenever I feel like I've had too much screen time.
     - icon: 🕹️
       title:  Gaming
-      Description: I love modding old consoles and diving into pixel art games on emulators.
+      Description: I love video playing video games currently playing EA FC 25 and Red Dead Redemption 2
+    - icon: 🥍🏈
+      title:  Sports
+      Description: I also enjoy playing lacrosse and football. Currently play lacrosse for Morgan States Club team.
   
       
 
