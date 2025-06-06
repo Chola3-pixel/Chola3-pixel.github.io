@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Olayinka Jolayemi
   title: PhD Student, Electrical Engineering
-  image: /assets/images/mymentor.jpg
+  image:/assets/images/mymentor.jpg
   website:https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
   email: oljol3@morgan.edu
   bio: |
