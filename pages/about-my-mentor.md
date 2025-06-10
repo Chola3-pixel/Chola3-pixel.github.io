@@ -17,7 +17,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Cliston Cole, Ph.D.
   title: Assistant Professor at MSU | Electrical Engineer | Auditory Modeling | Speech Perception
-  image: /assets/images/facultyadvisor.jpeg
+  image: /assets/images/facultyadvisor.jpg
   website: "https://www.linkedin.com/in/cliston-cole-ph-d/"
   email: "cliston.cole@morgan.edu"
   bio: |
