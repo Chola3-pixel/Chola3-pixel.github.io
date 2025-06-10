@@ -6,10 +6,10 @@ permalink: /about-me.html
 about:
   name: Christian Olabisi
   role: Senior, Electrical Engineering concentration in cybersecurity Major at Morgan State University
-  image: /assets/images/me.jpg
+  image: /assets/images/Headshot.jpg
   LinkedIn: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
-    I’m currently a Senior studying Electrical Engineering at Morgan State University in Baltimore, Maryland. I expect to graduate this upcoming fall semester. I will be working on an Senior project that entails the prevention and detection of eavesdropping on a systems Network. Also after graduation, I plan on getting my master's degree immediately.
+    I’m currently a Senior studying Electrical Engineering at Morgan State University in Baltimore, Maryland. I expect to graduate this upcoming fall semester. I will be working on a Senior project that entails the prevention and detection of eavesdropping on a systems Network. Also after graduation, I plan on getting my master's degree immediately.
 
     In my free time, I go to the gym, read, and play video games. Also learning a new hobby which is djing. So in my spare time, I spend my time doing. Also, plan on learning Portuguese since I'm planning a trip to Brazil and I want to be well-versed in the language.
 
