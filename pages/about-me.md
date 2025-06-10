@@ -27,15 +27,4 @@ about:
       title:  Sports
       Description: I also enjoy playing lacrosse and football. Currently play lacrosse for Morgan States Club team.
   
-      
-
-  gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
 ---
