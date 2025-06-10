@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - " Passionate about learning"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
-image: /assets/images/me.Jpg
+linkedin: https://www.linkedin.com/in/christian-olabisi-9a7286231/
+image: /assets/images/Headshot.JPG
 ---
