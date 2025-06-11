@@ -25,6 +25,6 @@ about:
       Description: I love video playing video games currently playing EA FC 25 and Red Dead Redemption 2
     - icon: 🥍🏈
       title:  Sports
-      Description: I also enjoy playing lacrosse and football. Currently play lacrosse for Morgan States Club team.
+      Description: I also enjoy playing lacrosse and football. Currently play lacrosse for Morgan States Club team
   
 ---
