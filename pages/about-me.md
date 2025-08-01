@@ -27,6 +27,6 @@ about:
     - icon: 🥍🏈
       title:  Sports
       Description: I also enjoy playing lacrosse and football. Currently play lacrosse for the Morgan State Club lacrosse team. I have also been snowboarding, which was fun.
-      image: /assets/images/snowboarding.jpg
+      image: assets/images/snowboarding.jpg
   
 ---
