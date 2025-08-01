@@ -17,7 +17,7 @@ about:
     - icon: 💪🏿
       title: Going to the GYM
       Description: I love going to the gym and pushing my body to its limit.
-      image: /assets/images/lifting.jpeg
+      image: assets/images/lifting.jpeg
     - icon: 📚
       title: Reading
       Description: Ever since I was a kid, I've had a passion for reading. I read whenever I feel like I've had too much screen time.
