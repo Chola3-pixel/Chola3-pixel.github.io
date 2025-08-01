@@ -17,7 +17,7 @@ about:
     - icon: 💪🏿
       title: Going to the GYM
       Description: I love going to the gym and pushing my body to its limit.
-      images:/assests/images/lifting.png
+      images: /assets/images/lifting.png
     - icon: 📚
       title: Reading
       Description: Ever since I was a kid, I've had a passion for reading. I read whenever I feel like I've had too much screen time.
@@ -27,6 +27,6 @@ about:
     - icon: 🥍🏈
       title:  Sports
       Description: I also enjoy playing lacrosse and football. Currently play lacrosse for the Morgan State Club lacrosse team. I have also been snowboarding, which was fun.
-      images:/assets/images/snowboarding.png
+      images: /assets/images/snowboarding.png
   
 ---
